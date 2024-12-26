@@ -1,0 +1,45 @@
+Welcome and Onboarding
+  Create a "Welcome" Category
+    #Welcome-rules: list server rules and add a reaction bot (probably Carl-bot) that requires any new useers to agree before accessing the rest of the server.
+    #introductions: A place for new members to introduce themselves (probably use a template that we can develop in the future)
+
+Music: I am still working on a bot that pulls from Youtube and Soundcloud
+  This bot would allow links, Create queues(max 50 songs), Vote to skip, and create a radio-like effect with genres, artists, and more
+
+Improve the text channel organization
+  Expand the "Text Channels" section:
+    #Gaming-Chat: For general gaming discussions that dont fit into our specific categories
+    #Off-topic: For unrelated and general goblin behavior
+    #Events-and-announcements: Read-only chat that announces any specific events (maybe host game nights or something)
+    #Pets: Post your furry/scaley friends
+    #Food: Post your sloppy steaks
+
+Hosted Servers:
+  I intend on spending 2025 hosting game servers this is where we would announce what we host, a place for mod requests/reccomendations, and feedback
+    #Day-Z
+    #Project-Zomboid
+    #Valheim
+    #Rust
+    #Arma-III
+
+Voice Channels: general/game specific channels with a couple alternates to cut down on crosstalk
+    #General
+    #vintage-story
+    #project-Zomboid
+    #Sea-of-Theives
+    #Diablo
+
+
+Bots:
+  Currently we are using Euphony for music
+  Other bots for engagement
+    Triviabot: Gaming and general trivia
+    IdleRPG: Text based RPG
+
+
+Add server roles:
+
+
+Reactions:
+
+
